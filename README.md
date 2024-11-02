@@ -1,7 +1,7 @@
 # Denoising Dirty Document Images
 
-This repository contains code and datasets used for the task of denoising dirty document images. The project employs a convolutional autoencoder model to enhance image quality, making it suitable for further processing and analysis.
-
+This repository contains code and datasets used for the task of denoising dirty document images as well as a PPT giving an overview of the process.
+I did this as a project for my university course.
 ## Project Overview
 
 The dataset used for this project is based on a Kaggle competition. Due to file size restrictions on GitHub, I will upload the three zip files contained within the main dataset zip file individually. The competition link can be found [here](https://www.kaggle.com/competitions/denoising-dirty-documents/data).
